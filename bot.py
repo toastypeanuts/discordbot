@@ -81,6 +81,5 @@ async def on_channel_update(before, after):
 
 
 
-client.run("NDcxMzgwNjk4MzgxNjgwNjUw.DjkAmw.5YqYTAW07G0h4wcGu_fvUulG1z0")
 
 
